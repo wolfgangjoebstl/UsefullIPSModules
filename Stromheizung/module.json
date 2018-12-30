@@ -1,0 +1,14 @@
+{
+	"id": "{3df0325d-35de-4b8d-b6b3-e93e9d2c1e87}",
+	"name": "Stromheizung",
+	"type": 0,
+	"vendor": "",
+	"aliases": 
+	[
+		"Stromheizung"
+	],
+	"parentRequirements": [],
+	"childRequirements": [],
+	"implemented": [],
+	"prefix": "STH"
+}
